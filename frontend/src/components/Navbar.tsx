@@ -44,7 +44,8 @@
                <ListItem
                  button
 -                onClick={logout}
-+                onClick={handleLogout}
++                onClick={h
+}andleLogout}
                  sx={{
                    padding: drawerOpen ? '12px 24px' : '12px 8px',
                    margin: '4px 12px',
